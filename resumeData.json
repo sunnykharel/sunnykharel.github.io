@@ -1,0 +1,86 @@
+{
+  "main": {
+    "name":"Sunny Kharel",
+    "occupation":"Student",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"",
+    "contactmessage":"",
+    "email": "",
+    "phone": "",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/sunnykharel/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/sunnykharel",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"University of Texas at Austin",
+        "degree":"Bachelors of Science in Computer Engineering",
+        "graduated":"May 2021",
+        "description":""
+      }    ],
+    "work":[
+      {
+        "company":"Infosys Nia",
+        "title":"Software Engineer Intern",
+        "years":"",
+        "description":""
+      }
+    ],
+    "skills":[
+      
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Distributed Chat App",
+        "category":"Networking, Cloud, Distributed Systems, Multicore Programming",
+        "image":"messenger.png",
+        "url":"https://github.com/sunnykharel/DistributedChatApp"
+      },
+      {
+        "title":"SoccerBase",
+        "category":"Full-stack development, REST API, Databases",
+        "image":"soccerbase.png",
+        "url":"https://soccerbase.herokuapp.com"
+      },
+      {
+        "title":"Audio Source Separation With Deep Methods",
+        "category":"Machine Learning, Deep Learning, Digital Signal Processing",
+        "image":"deeplearning.png",
+        "url":"https://towardsdatascience.com/audio-source-separation-with-deep-learning-e7250e8926f7"
+      },
+      {
+        "title":"Embedded Systems Multiplayer Cowboy Shootout",
+        "category":"Embedded Systems, C/C++, Soldering, Circuits, Graphics, Game Development",
+        "image":"embedded_systems.png",
+        "url":"https://github.com/sunnykharel/CowboyShootOut"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {}
+    ]
+  }
+}
