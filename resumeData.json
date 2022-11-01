@@ -75,7 +75,13 @@
         "category":"Embedded Systems, C/C++, Soldering, Circuits, Graphics, Game Development",
         "image":"embedded_systems.png",
         "url":"https://github.com/sunnykharel/CowboyShootOut"
-      }
+      },
+      {
+        "title":"NLP Techniques for Political Tweets",
+        "category":"Deep Learning, NLP, Big Data",
+        "image":"mlproject.png",
+        "url":"https://mayankshouche.github.io/DSLabFinalProject"
+      },
     ]
   },
   "testimonials":{
