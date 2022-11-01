@@ -53,8 +53,8 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Distributed Chat App",
-        "category":"Networking, Cloud, Distributed Systems, Multicore Programming",
+        "title":"Chat App",
+        "category":"Networking, Cloud, Multicore Programming",
         "image":"messenger.png",
         "url":"https://github.com/sunnykharel/DistributedChatApp"
       },
@@ -77,10 +77,16 @@
         "url":"https://github.com/sunnykharel/CowboyShootOut"
       },
       {
-        "title":"NLP Techniques for Political Tweets",
-        "category":"Deep Learning, NLP, Big Data",
-        "image":"mlproject.png",
-        "url":"https://mayankshouche.github.io/DSLabFinalProject"
+        "title":"Audio Source Separation with Deep Learning",
+        "category":"Deep Learning, Signal Processing, Machine Learning",
+        "image":"deeplearning.png",
+        "url":"https://towardsdatascience.com/audio-source-separation-with-deep-learning-e7250e8926f7"
+      },
+      {
+        "title":"Custom Unix Shell",
+        "category":"Unix, Operating Systems, Systems Development",
+        "image":"yash.png",
+        "url":"https://github.com/sunnykharel/CustomUnixShell"
       }
     ]
   },
