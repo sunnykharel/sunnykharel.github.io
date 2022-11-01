@@ -65,10 +65,10 @@
         "url":"https://soccerbase.herokuapp.com"
       },
       {
-        "title":"Audio Source Separation With Deep Methods",
-        "category":"Machine Learning, Deep Learning, Digital Signal Processing",
-        "image":"deeplearning.png",
-        "url":"https://towardsdatascience.com/audio-source-separation-with-deep-learning-e7250e8926f7"
+        "title":"NLP Techniques for Political Tweets",
+        "category":"Deep Learning, NLP, Big Data",
+        "image":"mlproject.png",
+        "url":"https://mayankshouche.github.io/DSLabFinalProject"
       },
       {
         "title":"Embedded Systems Multiplayer Cowboy Shootout",
